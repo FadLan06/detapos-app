@@ -1,0 +1,19 @@
+{
+  "name": "Aplikasi Detapos",
+  "short_name": "DETAPOS",
+  "icons": [{
+    "src": "assets/img/logodetanew.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    },
+    {
+    "src": "assets/img/logo 1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#00aaff",
+  "theme_color": "white"
+} 
